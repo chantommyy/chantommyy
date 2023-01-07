@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommy Chan</h1>
-<h3 align="center">A passionate Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 - 🔭 My projects [Re:readr](https://re-readr.herokuapp.com/)
 
