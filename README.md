@@ -3,7 +3,7 @@
 
 - 🔭 My projects [Re:readr](https://re-readr.herokuapp.com/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🔭 My projects [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
 
 - 💬 You can reach me at **yinleongch@gmail.com**
 
