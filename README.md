@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tommy Chan</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
-- 🔭 My projects [Re:readr](https://re-readr.herokuapp.com/)
+- 🔭 My AWS project [Deployed WordPress application with AWS and Terraform]
 
-- 🔭 My projects [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
+- 🔭 My project [Re:readr](https://re-readr.herokuapp.com/)
+
+- 🔭 My project [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
 
 - 💬 You can reach me at **yinleongch@gmail.com**
 
