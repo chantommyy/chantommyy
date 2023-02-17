@@ -3,9 +3,9 @@
 
 - 🔭 My AWS project [Deployed WordPress application with AWS and Terraform]
 
-- 🔭 My project [Re:readr](https://re-readr.herokuapp.com/)
+- 🔭 My web project [Re:readr](https://re-readr.herokuapp.com/)
 
-- 🔭 My project [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
+- 🔭 My web project [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
 
 - 💬 You can reach me at **yinleongch@gmail.com**
 
