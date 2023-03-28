@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommy Chan</h1>
-<h3 align="center">Cloud Engineer</h3>
+<h3 align="center">QA tester</h3>
 
-- 🔭 My AWS project [Deployed WordPress application with AWS and Terraform]
+- 🔭 Master QA tools: Selenium, Postman 
 
 - 🔭 My web project [Re:readr](https://re-readr.herokuapp.com/)
 
