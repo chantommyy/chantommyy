@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommy Chan</h1>
-<h3 align="center">QA tester</h3>
-
-- 🔭 Master QA tools: Selenium, Postman 
-
-- 🔭 My web project [Re:readr](https://re-readr.herokuapp.com/)
-
-- 🔭 My web project [Fluffy Friends](https://fluffy-friend.herokuapp.com/)
+<h3 align="center">Data Analyst</h3>
 
 - 💬 You can reach me at **yinleongch@gmail.com**
 
