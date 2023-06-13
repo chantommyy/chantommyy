@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommy Chan</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">QA analyst</h3>
 
 - 💬 You can reach me at **yinleongch@gmail.com**
 
